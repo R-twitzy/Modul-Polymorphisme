@@ -13,3 +13,4 @@
 # Tugas Praktikum
 ![Polymorphisme TP](https://user-images.githubusercontent.com/71486008/115839878-4a3ad380-a445-11eb-8869-4ce67d54a240.png)
 # Tugas Tambahan
+![Polymorphisme Tambahan](https://user-images.githubusercontent.com/71486008/115904411-ed640b00-a48e-11eb-8164-cd5d3d8b03b6.png)
